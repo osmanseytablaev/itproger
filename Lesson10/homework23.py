@@ -1,0 +1,1 @@
+j = {g: g ** 2 for g in range(7)}
